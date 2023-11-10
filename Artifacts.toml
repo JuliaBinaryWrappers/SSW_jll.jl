@@ -1,0 +1,88 @@
+[[SSW]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c42a37947b43f6b3c65dbfb40e7d2e59d0d0ccac"
+libc = "glibc"
+os = "linux"
+
+    [[SSW.download]]
+    sha256 = "7fc9cc1f8c4c3ce2edf16bf3a7aba8ad5287ca1aa86efdfac3685cf6d87d49a7"
+    url = "https://github.com/JuliaBinaryWrappers/SSW_jll.jl/releases/download/SSW-v1.2.5+0/SSW.v1.2.5.aarch64-linux-gnu-cxx03.tar.gz"
+[[SSW]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0ac5b096a780c5ba9199a59308ce230d036a85a1"
+libc = "glibc"
+os = "linux"
+
+    [[SSW.download]]
+    sha256 = "41fc2ef561eecae7052d42b51c1583b549a653a7403dc6910bac0dbe212c5f02"
+    url = "https://github.com/JuliaBinaryWrappers/SSW_jll.jl/releases/download/SSW-v1.2.5+0/SSW.v1.2.5.aarch64-linux-gnu-cxx11.tar.gz"
+[[SSW]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f9f54e2b9d0c981580c575e641ac754c55d1f822"
+libc = "musl"
+os = "linux"
+
+    [[SSW.download]]
+    sha256 = "ee225eecafd50644414115ec6c7e57ca0014bc0a36f37e3abe85a7c8a6a9015a"
+    url = "https://github.com/JuliaBinaryWrappers/SSW_jll.jl/releases/download/SSW-v1.2.5+0/SSW.v1.2.5.aarch64-linux-musl-cxx03.tar.gz"
+[[SSW]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "23a94e2875c157c0b54a4a8ebaee72cbc4de8161"
+libc = "musl"
+os = "linux"
+
+    [[SSW.download]]
+    sha256 = "990c16076b175758ca965f396a5b5b845095a9a8c1f808b418e207bfaae4d1a2"
+    url = "https://github.com/JuliaBinaryWrappers/SSW_jll.jl/releases/download/SSW-v1.2.5+0/SSW.v1.2.5.aarch64-linux-musl-cxx11.tar.gz"
+[[SSW]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "402a1dd53bdc833b32406770057ff32836b5a773"
+libc = "glibc"
+os = "linux"
+
+    [[SSW.download]]
+    sha256 = "d3697dbc7163ddfc09956f7532d277b40b246f3876a46112afd24d167eaf7357"
+    url = "https://github.com/JuliaBinaryWrappers/SSW_jll.jl/releases/download/SSW-v1.2.5+0/SSW.v1.2.5.x86_64-linux-gnu-cxx03.tar.gz"
+[[SSW]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a33ea2ead4a0ac1ac54b780f74ecdcb30778850c"
+libc = "glibc"
+os = "linux"
+
+    [[SSW.download]]
+    sha256 = "039960a89db9f95a72620b58be3bd012771eb4db5d09ad1f351d8eed81f65334"
+    url = "https://github.com/JuliaBinaryWrappers/SSW_jll.jl/releases/download/SSW-v1.2.5+0/SSW.v1.2.5.x86_64-linux-gnu-cxx11.tar.gz"
+[[SSW]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f68a6f98f8903b18a2f532c6b6b5238cab82aa86"
+libc = "musl"
+os = "linux"
+
+    [[SSW.download]]
+    sha256 = "2b864f11124e2ee89194174779ebef10235348f53327835043d58ed0f51f7a08"
+    url = "https://github.com/JuliaBinaryWrappers/SSW_jll.jl/releases/download/SSW-v1.2.5+0/SSW.v1.2.5.x86_64-linux-musl-cxx03.tar.gz"
+[[SSW]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3941f55c7de967d2d6cbb6e9fdc6183835176a01"
+libc = "musl"
+os = "linux"
+
+    [[SSW.download]]
+    sha256 = "b5e3d5ef25f06599596d2298f5504b9387fa49455a6279317c834e9667b492b8"
+    url = "https://github.com/JuliaBinaryWrappers/SSW_jll.jl/releases/download/SSW-v1.2.5+0/SSW.v1.2.5.x86_64-linux-musl-cxx11.tar.gz"
+[[SSW]]
+arch = "x86_64"
+git-tree-sha1 = "4be25bb1adf89f5b2b5b8e53b98c6065a2efceb7"
+os = "freebsd"
+
+    [[SSW.download]]
+    sha256 = "70bf805582610fa1abac13376e1e113b1db22eb698ca1b3ff8efb6d9f69bfc24"
+    url = "https://github.com/JuliaBinaryWrappers/SSW_jll.jl/releases/download/SSW-v1.2.5+0/SSW.v1.2.5.x86_64-unknown-freebsd.tar.gz"
